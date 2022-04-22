@@ -19,6 +19,16 @@
   </li>
   {% endif %}
 
+  <!-- Ctftime link -->
+  {% if site.resume_social_links.resume_ctftime_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_ctftime_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-ctftime.html %}</a></li>
+  {% endif %}
+
+  <!-- Hackmd link -->
+  {% if site.resume_social_links.resume_hackmd_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_hackmd_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-hackmd.html %}</a></li>
+  {% endif %}
+
   <!-- Dribbble link -->
   {% if site.resume_social_links.resume_dribbble_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_dribbble_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-dribbble.html %}</a></li>

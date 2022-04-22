@@ -1,12 +1,9 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Web hacking
+  description: I have several years of experience participating in various CTFs.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Web3.0
+  description: I have an understanding of how smart contracts and applications like DeFi work.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Developing
+  description: Python / Javascript / Typescript

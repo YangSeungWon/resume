@@ -1,10 +1,25 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: 2022 zer0pts CTF
+  organization: PLUS
+  year: 5th
+  
+- award: 2021 Balsn CTF
+  organization: PLUS
+  year: 10th
+  
+- award: 2020 Balsn CTF
+  organization: PLUS
+  year: 8th
+  
+- award: 2020 DEF CON CTF
+  organization: koreanbadass
+  year: finalist
+  
+- award: 2020 UIUCTF
+  organization: PLUS
+  year: 6th
+  
+- award: 2020 CODEGATE(univ.)
+  organization: MINUS
+  year: finalist
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
