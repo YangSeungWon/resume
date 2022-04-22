@@ -8,14 +8,6 @@
     <li>Deployed through docker on AWS</li>
     </ul>
 
-- company: Sellerhub
-  position: Outsourcing
-  duration: Nov 2020 &mdash; Dec 2020
-  summary: |
-    <ul class="resume-item-list">
-    <li>Performed security audit</li>
-    </ul>
-
 - company: POSTECH Online Hacking & Security Camp
   position: Mentor
   duration: Jun 2020 &mdash; Feb 2022
@@ -24,4 +16,12 @@
     <li>Developed a web hacking attack-and-defense platform(<a href="https://github.com/PLUS-POSTECH/plt">Link</a>)</li>
     <li>Organized beginner's courses on web hacking</li>
     <li>Taught high school students basics of hacking and security</li>
+    </ul>
+
+- company: Sellerhub
+  position: Outsourcing
+  duration: Nov 2020 &mdash; Dec 2020
+  summary: |
+    <ul class="resume-item-list">
+    <li>Performed security audit</li>
     </ul>
