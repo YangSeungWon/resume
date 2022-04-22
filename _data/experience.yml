@@ -4,7 +4,7 @@
   duration: Dec 2021 &mdash; Feb 2022
   summary: |
     <ul class="resume-item-list">
-    <li>Developed a browser game</li>
+    <li>Developed <a href="https://github.com/POSTECH-in-the-sky-reopen/postech-in-the-sky-reopen">a browser game</a></li>
     <li>Deployed through Docker on AWS</li>
     </ul>
 
@@ -13,7 +13,7 @@
   duration: Jun 2020 &mdash; Feb 2022
   summary: |
     <ul class="resume-item-list">
-    <li>Developed a web hacking attack-and-defense platform(<a href="https://github.com/PLUS-POSTECH/plt">Link</a>)</li>
+    <li>Developed <a href="https://github.com/PLUS-POSTECH/plt">a web hacking attack-and-defense platform</a></li>
     <li>Organized beginner's courses on web hacking</li>
     <li>Taught high school students the basics of hacking and security</li>
     </ul>
