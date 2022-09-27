@@ -1,4 +1,12 @@
 # Jobs
+- company: Theori
+  position: Intern
+  duration: Jun 2022 &mdash; Sep 2022
+  summary: |
+    <ul class="resume-item-list">
+    <li>Performed web3 security audit</li>
+    </ul>
+
 - company: POSTECH OT arrangement committee
   position: Developer
   duration: Dec 2021 &mdash; Feb 2022
