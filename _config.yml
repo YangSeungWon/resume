@@ -1,5 +1,5 @@
 # Site settings
-title: "Yang Seungwon"
+title: "Yang, Seungwon"
 description: "Resume"
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Yang Seungwon"
+resume_name:                    "Yang, Seungwon"
 resume_title:                   "About me"
 
 # used for the contact button in _layouts/resume.html
