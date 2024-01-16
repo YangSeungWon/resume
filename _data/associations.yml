@@ -1,8 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: HISLab
+  role: M.S. Student
+  year: Sep 2023 &mdash; Present
+  url: https://his.postech.ac.kr/
+  summary: Human-Computer Interaction
+
 - organization: PLUS
   role: Hacker
-  year: 2019 &mdash; Present
+  year: 2019 &mdash; 2023
   url: https://plus.or.kr/
   summary: As a member of PLUS, have studied various sections of hacking; especially web hacking and web3.0. Please refer to <a href="https://hackmd.io/@whysw">Hackmd</a> and <a href="https://ctftime.org/user/64930">CTFtime</a>.
