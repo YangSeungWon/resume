@@ -11,16 +11,16 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Yang, Seungwon"
-resume_title:                   "About me"
+resume_title:                   "Yang, Seungwon; 양승원 [jaŋ sɯŋwʌn]"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "yysw1109@gmail.com"
+resume_contact_email:           "sw.yang43@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 
-resume_header_contact_info:     "yysw1109@gmail.com"
+resume_header_contact_info:     "sw.yang43@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: ""
