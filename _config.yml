@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Yang, Seungwon"
 resume_title:                   "Yang, Seungwon; 양승원 [jaŋ sɯŋwʌn]"
 
@@ -53,7 +53,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/people/Seungwon-Yang/pfbid026Aa4y6SUpBA1Sm7Q3Uda44AZYEpXrtPjC9d16jQiuYtDS4d5YaruL8m5w8Sep9mvl/"
   resume_linkedin_url:          "https://www.linkedin.com/in/seungwon-yang/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://ysw.kr/files_cv/CV-seungwon-yang.pdf"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
